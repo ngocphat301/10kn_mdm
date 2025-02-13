@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  userable_type: MyString
+  string: MyString
+  userable_id: MyString
+  integer: MyString
+
+two:
+  userable_type: MyString
+  string: MyString
+  userable_id: MyString
+  integer: MyString
